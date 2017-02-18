@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-708c521a725b6d1804cfbfca5c40e9ead52eea0d.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-3b5c0991b63b9d3c0e94d53586b2b1296aa494af.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-16b8aef58ee04bc08166691e0d12216959d4fb64.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-1cc1eea80d20a3f576c11f21a42afe80e9ed4d18.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-f943b3973f2b02f1ff1977c9f28413387654518f.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-1536e310241b301089eccd6786ed2a19e5c1ba14.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-ec898f79f7743feb7598f349f79e4b4f0fe34a10.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-54e621dcfebd5f7f30a1872ee9700c0a3879ca95.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-4ac9ddea64b1e5147a40e5109af3da79168ed7d2.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-5698adf2ce7ae483f47b6ac28d863f769c8659c6.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-f197ab4ec858907fec87a5259f9e83727d645c23.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-b2fff60c35914d7455740751c8c1a90232b3d523.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-d800ab5e55f05eb7c13fd6069d0e06c546cf4764.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-6672895611adc220f8962a645c0939eb647ea860.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-0b3e73f8ad74529f720d8bf5d272a0028449e6f2.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-776a87b2f3502de2f4eb6c1a42ae5e995c68617a.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-c59fabd1b368908c53016fbf2def92f5e713e406.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-1b7021cc52c8506eed3935d24ec57f3f170109e7.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-ac99d02c8ab933f84f46627b9ea9e6958b9b18c1.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-5c42d773f33bb2973c017f7ea9b9a60b5662d04b.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-eb0dc7de71b46e9fcc8f80769a59d523c1b2eb41.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-bd1d30e25728b811657477d02340bc0f717830da.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-01b4f68baee62e36fb054d55141f0627faecda86.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-4002af7377b0348a38484a6f92074ae619783f9c.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-0a00c9412ff54ee3bdc7b67d8c1f5573c36d4f71.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-2c86773f66ad7ac0ec30391e44190c18e3c49aa9.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-5a315b610e8e25903ef260930e7596baa65e0eed.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-09bf02536610375756df2e325f9cab68fa3b9f2e.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-b1389c339be6707ff8e9aee6d7aeb6eadf570580.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-e8cb40ef8de019a00ad14d801632347f2ce2cb24.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-a049fad73e30cd980e0389a13db5ba1a61f9e30f.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-7a534ba2fd793395b90357deeb70498d1941346d.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-f1a2ecc96a6aaa3978a30f638aaa1d3ef78be3c1.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-10070ab46225eb34ac1c0683b30f1ee29d9bb199.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-0c8b4428cafc0cf3bcdcdb35822e9bedf8abba67.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNativeDemo/android/app/build/intermediates/pre-dexed/debug/classes-531e7c1d7209f864c10369400edfae4bbf918913.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-895e76fe8db83980a8db6fa0ce730495cf2a4050.jar" />
+    </item>
+    <item
+        jar="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Vladislav_Solodjankin/Documents/projects/ReactNative/android/app/build/intermediates/pre-dexed/debug/classes-5279f267988de75a88842a2042ef65abbbb3d111.jar" />
+    </item>
+
+</items>
