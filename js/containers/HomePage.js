@@ -130,15 +130,15 @@ class HomePage extends React.Component {
       inputRange: [0, 0.5, 1],
       outputRange: [200, 50, 0]
     });
-    const rotateY = this.animatedValue2.interpolate({
+    const hideRotateY = this.animatedValue2.interpolate({
       inputRange: [0, 0.4, 0.6, 0.8, 1],
       outputRange: ['0deg', '180deg', '360deg', '540deg', '630deg']
     });
     const hide = this.animatedValue3.interpolate({
       inputRange: [0, 1],
-      outputRange: [0, 1]
+      outputRange: [200, 0]
     });
-    const show = this.animatedValue4.interpolate({
+    const showRotateY = this.animatedValue4.interpolate({
       inputRange: [0, 0.6, 0.8, 1],
       outputRange: ['180deg', '360deg', '540deg', '720deg']
     });
@@ -149,7 +149,7 @@ class HomePage extends React.Component {
       <View style={styles.container}>
         <Text style={styles.description}>Hello world</Text>
         <View style={styles.flowRight}>
-          <Animated.View style={[styles.block, { transform: [{ rotateY }], barStyles }]}>
+          <Animated.View style={[styles.block, { transform: [{ rotateY: hideRotateY }] },  barStyles]}>
             <TouchableHighlight
               onPress={this.onStartAnimation.bind(this)}>
               <Image
@@ -158,7 +158,7 @@ class HomePage extends React.Component {
               />
             </TouchableHighlight>
           </Animated.View>
-          <Animated.View style={[styles.block]}>
+          <Animated.View style={[styles.block, { transform: [{ rotateY: showRotateY }] }]}>
             <TouchableHighlight>
               <Image
                 style={styles.image}
