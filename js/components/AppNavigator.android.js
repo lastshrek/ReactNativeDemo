@@ -71,5 +71,10 @@ export default class AppNavigator extends Component {
         route.title = "My Initial Scene";
         return (<HomePage navigator={navigator} />);
     }
+    switch (route.id) {
+      case 'NextPage':
+        route.title = "My Initial Scene";
+        return (<NextPage navigator={navigator} />);
+    }
   }
 }
